@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+ background-color: rgb(122, 119, 119);
+}
+   
+nav {
+ background-color: rgb(122, 119, 119);
+}
+ a {
+     color: rgb(0, 0, 0);
+}
+ h1 {
+    color: green;
+    text-align: center;
+ }
+
+
+p {
+  color: rgb(0, 0, 0) ; 
+}
+
+footer {
+ background-color: rgb(122, 119, 119);
+}
